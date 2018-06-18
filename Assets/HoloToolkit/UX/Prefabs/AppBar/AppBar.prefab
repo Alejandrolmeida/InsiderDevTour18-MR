@@ -164,8 +164,7 @@ MonoBehaviour:
   UseHide: 1
   DisplayType: 0
   State: 0
-  CustomButtonIconProfile: {fileID: 11400000, guid: a05b72560895bf146a8fcc7cdc391aae,
-    type: 2}
+  CustomButtonIconProfile: {fileID: 0}
   buttons: []
   buttonParent: {fileID: 4691479528535670}
   baseRenderer: {fileID: 1275815092924048}
